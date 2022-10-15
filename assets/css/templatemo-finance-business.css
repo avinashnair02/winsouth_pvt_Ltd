@@ -1718,3 +1718,8 @@ h2::after {
     border-color: #1c89ff;
   }
 }
+.down-content {
+  display:block/* equal height of the children */
+}
+
+
