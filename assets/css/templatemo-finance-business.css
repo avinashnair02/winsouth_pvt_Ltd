@@ -396,7 +396,14 @@ header .navbar {
 }
 
 .Modern-Slider .item-3 .img-fill {
-  background-image: url(../images/build3.jpg);
+  background-image: url(../images/auto_loan.jpg);
+}
+
+.Modern-Slider .item-4 .img-fill {
+  background-image: url(../images/working_cap.jpg);
+}
+.Modern-Slider .item-5 .img-fill {
+  background-image: url(../images/lease_rental.jpg);
 }
 
 .Modern-Slider .NextArrow {
